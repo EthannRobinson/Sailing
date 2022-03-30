@@ -8,6 +8,7 @@ background-image: url(images/sailboat.jpg)
 .conatainer {
 background-color: white;
 margin: 20px -10px;
+display: column;
 
 
 }
@@ -47,5 +48,21 @@ font-size: 35px;
 
 nav ul li :hover {
 text-decoration: overline;
+
+}
+
+.top-line {
+height: 4px;
+width: 100%;
+background-color: black;
+
+}
+
+.bottom-line {
+  height: 4px;
+  width: 100%;
+  background-color: black;
+
+
 
 }
