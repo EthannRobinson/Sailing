@@ -41,10 +41,11 @@ text-decoration: none;
 text-transform: uppercase;
 font-size: 35px;
 
+
+
 }
 
 nav ul li :hover {
-color: gray;
-
+text-decoration: overline;
 
 }
