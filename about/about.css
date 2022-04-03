@@ -43,7 +43,7 @@ font-size: 35px;
 }
 
 nav ul li :hover {
-color: gray;
+text-decoration: overline;
 
 
 }
@@ -63,7 +63,8 @@ margin-right: 0px;
 .transparent {
 width: 100%;
 height: 1000px;
-background-color: rgba(0,0,0, 0.55);
+background-color: rgba(0,0,0, 0.6);
+font-family: 'PT Sans', sans-serif;
 
 
 }
@@ -71,14 +72,14 @@ background-color: rgba(0,0,0, 0.55);
 .inner-text {
 text-align: center;
 color: white;
-font-size: 20px;
+font-size: 30px;
 padding-top: 100px;
 
 }
 
 .insides {
 color: white;
-font-size: 20px;
+font-size: 30px;
 padding: 30px;
 
 }
@@ -103,5 +104,24 @@ width: 100%;
 height: 200px;
 background-color: white;
 margin-top: -180px;
+
+}
+
+.signature {
+float: right;
+}
+
+.paragraphs{
+text-indent: 25pt;
+
+}
+
+#blog-posts {
+display: inline-block;
+width: 100%;
+height: 220px;
+margin-top: 20px;
+
+
 
 }
