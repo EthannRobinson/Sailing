@@ -84,7 +84,7 @@ border: 1px solid black;
 }
 
 .blog-post-1 {
-height: 250px;
+height: 220px;
 margin-top: 100px;
 
 
@@ -104,7 +104,7 @@ background-color: gray;
 .blog-title {
 width: 50%;
 float: right;
-margin-right: 150px;
+margin-right: 239px;
 font-family: 'BIZ UDPMincho', serif;
 background-color: white;
 text-decoration: none;
@@ -114,12 +114,12 @@ text-decoration: none;
 .blog-fine-print {
 width: 10%;
 height: 35%;
-float: right;
-margin-top: -270px;
 font-size: 22px;
 font-family: 'PT Sans', sans-serif;
-margin-right: 9px;
-padding-left: 20px;
+padding-left: 400px;
+float: right;
+margin-top: -220px;
+
 
 
 }
@@ -129,8 +129,8 @@ background-color: blue;
 float: right;
 width: 60%;
 font-size: 20px;
-margin-top: -160px;
-padding-right: 35px;
+margin-top: -130px;
+padding-right: 125px;
 background-color: inherit;
 font-family: 'BIZ UDPMincho', serif;
 
