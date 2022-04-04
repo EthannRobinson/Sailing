@@ -1,0 +1,19 @@
+.house-pic {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 38%;
+margin-top: -70px;
+}
+
+.flexbox-container {
+
+
+}
+
+.real-estate-blog {
+width: 100%;
+min-height: 200px;
+background-color: black;
+
+}
