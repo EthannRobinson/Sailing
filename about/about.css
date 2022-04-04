@@ -28,8 +28,9 @@ list-style: none;
 
 nav li {
 display: inline-block;
-margin-left: 80px;
-padding: 40px;
+margin-left: 40px;
+margin-right: 40px;
+padding: 35px;
 font-family: 'Bebas Neue', cursive;
 
 }
