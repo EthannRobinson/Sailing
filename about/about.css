@@ -62,7 +62,7 @@ margin-right: 0px;
 
 .transparent {
 width: 100%;
-height: 1000px;
+height: 900px;
 background-color: rgba(0,0,0, 0.6);
 font-family: 'PT Sans', sans-serif;
 
@@ -98,14 +98,11 @@ background-color: black;
 
 }
 
-
-.bottom {
-width: 100%;
-height: 200px;
-background-color: white;
-margin-top: -180px;
+.signature-2 {
+float: right;
 
 }
+
 
 .signature {
 float: right;
@@ -113,15 +110,5 @@ float: right;
 
 .paragraphs{
 text-indent: 25pt;
-
-}
-
-#blog-posts {
-display: inline-block;
-width: 100%;
-height: 220px;
-margin-top: 20px;
-
-
 
 }
